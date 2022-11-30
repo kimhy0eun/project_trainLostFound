@@ -18,7 +18,7 @@
 					<center>			
 						<Label alignment="CENTER" prefWidth="215" text="기차 분실물">
                      <font>
-                        <Font name="Malgun Gothic Bold" size="15.0" />
+                        <Font name="Malgun Gothic Bold" size="16.0" />
                      </font></Label>
 					</center>
 				</BorderPane>
